@@ -1,0 +1,95 @@
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\maingame.exe.config
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\maingame.exe
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\maingame.pdb
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.csprojResolveAssemblyReference.cache
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form1.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form2.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form3.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form4.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Properties.Resources.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.csproj.GenerateResource.Cache
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.exe
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.pdb
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\csi.PNG
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\vi\maingame.resources.dll
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\yo\maingame.resources.dll
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form2.vi.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.Form2.yo.resources
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\vi\maingame.resources.dll
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\yo\maingame.resources.dll
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\maingame.exe.manifest
+C:\Users\Abi\Desktop\maingame\maingame\bin\Debug\maingame.application
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.exe.manifest
+C:\Users\Abi\Desktop\maingame\maingame\obj\Debug\maingame.application
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\maingame.exe.config
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.exe
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.pdb
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\csi.PNG
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\maingame.exe.manifest
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\maingame.application
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\maingame.exe
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\maingame.pdb
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\vi\maingame.resources.dll
+C:\Users\Abi\Desktop\vs\maingame\maingame\bin\Debug\yo\maingame.resources.dll
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.csprojResolveAssemblyReference.cache
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form1.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form2.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form3.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form4.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Properties.Resources.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form2.vi.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.Form2.yo.resources
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.csproj.GenerateResource.Cache
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\vi\maingame.resources.dll
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\yo\maingame.resources.dll
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.exe.manifest
+C:\Users\Abi\Desktop\vs\maingame\maingame\obj\Debug\maingame.application
+D:\backup\maingame\maingame\bin\Debug\maingame.exe.config
+D:\backup\maingame\maingame\obj\Debug\maingame.exe
+D:\backup\maingame\maingame\obj\Debug\maingame.pdb
+D:\backup\maingame\maingame\obj\Debug\maingame.csprojResolveAssemblyReference.cache
+D:\backup\maingame\maingame\obj\Debug\maingame.Form1.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Form2.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Form3.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Form4.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Properties.Resources.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Form2.vi.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.Form2.yo.resources
+D:\backup\maingame\maingame\obj\Debug\maingame.csproj.GenerateResource.Cache
+D:\backup\maingame\maingame\bin\Debug\csi.PNG
+D:\backup\maingame\maingame\bin\Debug\maingame.exe.manifest
+D:\backup\maingame\maingame\bin\Debug\maingame.application
+D:\backup\maingame\maingame\bin\Debug\maingame.exe
+D:\backup\maingame\maingame\bin\Debug\maingame.pdb
+D:\backup\maingame\maingame\bin\Debug\vi\maingame.resources.dll
+D:\backup\maingame\maingame\bin\Debug\yo\maingame.resources.dll
+D:\backup\maingame\maingame\obj\Debug\vi\maingame.resources.dll
+D:\backup\maingame\maingame\obj\Debug\yo\maingame.resources.dll
+D:\backup\maingame\maingame\obj\Debug\maingame.exe.manifest
+D:\backup\maingame\maingame\obj\Debug\maingame.application
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\maingame.exe.config
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.exe
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.pdb
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\csi.PNG
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\maingame.exe.manifest
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\maingame.application
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\maingame.exe
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\maingame.pdb
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\vi\maingame.resources.dll
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\bin\Debug\yo\maingame.resources.dll
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form1.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form2.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form3.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form4.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Properties.Resources.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form2.vi.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.Form2.yo.resources
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\vi\maingame.resources.dll
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\yo\maingame.resources.dll
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.exe.manifest
+C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\maingame.application
+C:\Users\HP\Desktop\git\maingame\maingame\bin\Debug\maingame.exe.config
+C:\Users\HP\Desktop\git\maingame\maingame\obj\Debug\maingame.exe
+C:\Users\HP\Desktop\git\maingame\maingame\obj\Debug\maingame.pdb
