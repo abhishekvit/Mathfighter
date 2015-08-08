@@ -93,3 +93,6 @@ C:\Users\HP\Desktop\imp folders\session files\maingame\maingame\obj\Debug\mainga
 C:\Users\HP\Desktop\git\maingame\maingame\bin\Debug\maingame.exe.config
 C:\Users\HP\Desktop\git\maingame\maingame\obj\Debug\maingame.exe
 C:\Users\HP\Desktop\git\maingame\maingame\obj\Debug\maingame.pdb
+C:\Users\HP\Documents\GitHub\mathfighter\maingame\bin\Debug\maingame.exe.config
+C:\Users\HP\Documents\GitHub\mathfighter\maingame\obj\Debug\maingame.exe
+C:\Users\HP\Documents\GitHub\mathfighter\maingame\obj\Debug\maingame.pdb
